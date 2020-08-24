@@ -1,0 +1,56 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "sheft",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "whatIsSheftAbout",
+          "slots": [],
+          "samples": [
+            "Do que se trata este programa",
+            "Qual a intenção do programa",
+            "O que é o programa",
+            "Sobre o que o programa trata",
+            "Do que se trata",
+            "Do que se trata o Sheft",
+            "Do que se fala o Sheft",
+            "De que se fala o projeto"
+          ]
+        },
+        {
+          "name": "infoAboutSheft",
+          "slots": [],
+          "samples": [
+            "programa de mentoria",
+            "mentoria",
+            "mentorias",
+            "me fala mais das mentorias",
+            "o que são as mentorias",
+            "como funcionam as mentorias",
+            "quero saber mais das mentorias",
+            "quero saber mais ",
+            "mais informações"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "3"
+}
